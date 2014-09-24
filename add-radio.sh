@@ -34,6 +34,10 @@ main(){
             radio_name_id="di_${radio_name_id}"
             radio_name_pretty="Digitally Imported - ${radio_name_pretty}"
             ;;
+        *)
+            echo -e "E: wrong option"
+            exit 1
+            ;;
     esac
 
     mplayer "http://pub1.${radio_domain}/${radio_name_id}"
