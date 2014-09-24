@@ -1,0 +1,26 @@
+[playlist]
+NumberOfEntries=9
+File1=http://pub1.radiotunes.com:80//radiotunes_cafedeparis
+Title1=RadioTunes - Café Streets de Paris
+Lenght1=-1
+File2=http://pub2.radiotunes.com:80//radiotunes_cafedeparis
+Title2=RadioTunes - Café Streets de Paris
+Lenght2=-1
+File3=http://pub3.radiotunes.com:80//radiotunes_cafedeparis
+Title3=RadioTunes - Café Streets de Paris
+Lenght3=-1
+File4=http://pub4.radiotunes.com:80//radiotunes_cafedeparis
+Title4=RadioTunes - Café Streets de Paris
+Lenght4=-1
+File5=http://pub5.radiotunes.com:80//radiotunes_cafedeparis
+Title5=RadioTunes - Café Streets de Paris
+Lenght5=-1
+File6=http://pub6.radiotunes.com:80//radiotunes_cafedeparis
+Title6=RadioTunes - Café Streets de Paris
+Lenght6=-1
+File7=http://pub7.radiotunes.com:80//radiotunes_cafedeparis
+Title7=RadioTunes - Café Streets de Paris
+Lenght7=-1
+File8=http://pub8.radiotunes.com:80//radiotunes_cafedeparis
+Title8=RadioTunes - Café Streets de Paris
+Lenght8=-1
