@@ -47,7 +47,7 @@ main(){
     echo "[playlist]" >> "$file"
     echo "NumberOfEntries=9" >> "$file"
 
-    while [ "$count" -lt 10 ] ; do
+    while [ "$count" -lt 9 ] ; do
         count="$(( $count + 1 ))"
 
         echo "File${count}=http://pub${count}.${radio_domain}/${radio_name_id}" >> "$file"
