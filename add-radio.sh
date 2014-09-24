@@ -50,7 +50,7 @@ main(){
     while [ "$count" -lt 10 ] ; do
         count="$(( $count + 1 ))"
 
-        echo "File${count}=" >> "$file"
+        echo "File${count}=http://pub${count}.${radio_domain}/${radio_name_id}" >> "$file"
         echo "Title${count}=${radio_name_pretty}" >> "$file"
         echo "Lenght${count}=-1" >> "$file"
     done
