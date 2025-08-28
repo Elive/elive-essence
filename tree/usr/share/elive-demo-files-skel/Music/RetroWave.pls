@@ -1,5 +1,5 @@
 [playlist]
-NumberOfEntries=3
+NumberOfEntries=8
 File1=https://synthwave.stream.laut.fm/synthwave?ref=synthwave-player
 Title1=Synthwave - Elive Retrowave
 Lenght1=-1
@@ -8,6 +8,7 @@ Title2=Synthpop - Elive Retrowave
 Lenght2=-1
 File3=https://synthesizergreatest.stream.laut.fm/synthesizergreatest?ref=synthwave-player
 Title3=SyntheSizerGreatest - Elive Retrowave
+Lenght3=-1
 File4=https://vaporwave.stream.laut.fm/vaporwave?ref=synthwave-player
 Title4=Vaporwave FM - Elive Retrowave
 Lenght4=-1
@@ -23,14 +24,3 @@ Lenght7=-1
 File8=https://atomicwavefm.stream.laut.fm/atomicwavefm?ref=synthwave-player
 Title8=Atomic Wave FM - Elive Retrowave
 Lenght8=-1
-
-File1=http://85.234.59.191:8000/stream
-Title1=RetroWave One - Elive Retrowave
-Lenght1=-1
-version=2
-File2=http://s5.radio.co:80/sc25837827/listen
-Title2=SynthMeister Radio - Elive Retrowave
-Lenght2=-1
-File3=http://94.23.252.14:8179/stream
-Title3=Synthwave City FM - Elive Retrowave
-Lenght3=-1
